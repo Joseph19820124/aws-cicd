@@ -65,7 +65,7 @@ public class CourseController {
 
     @GetMapping("/welcome")
     public String greetings() {
-        return "Hello Techie my friend, AWS CICD Example working fine !";
+        return "Hello Techie my friend, AWS CICD Example working fine! From Nike";
     }
 
 
